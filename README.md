@@ -25,16 +25,15 @@ Currently preparing for Data Analyst roles and building real-world projects to s
 
 ---
 
-## Projects
+## 🚀 Projects
 
-📊 Coffee Sales Analysis Dashboard (Excel):
-Interactive dashboard analyzing sales trends and customer behavior.
+- ### 📊 Coffee Sales Analysis Dashboard (Excel)
+  Interactive dashboard analyzing sales trends and customer behavior.
 
-📈 ShopVerse E-commerce Analytics Dashboard (Power BI):
-Built an interactive dashboard to analyze sales performance and business KPIs.
+- ### 📈 ShopVerse E-commerce Analytics Dashboard (Power BI)
+  Built an interactive dashboard to analyze sales performance and business KPIs.
 
 🚀 Currently building more real-world Data Analytics projects.
-
 ---
 
 ## Currently Learning
